@@ -1,4 +1,4 @@
-0. do check softmax (day 4) again
+0. do check softmax (day 4 & 6), mattrix multiply (day 5 and 6) again
 
 1. The fundamental rule is: Use axis only when you have genuinely multi-dimensional tensor structures that you created intentionally. for example if i want to calc max for softmax for 1d vector , dont use axis=0 . u can use it for 2d onwards , attentionb mech , batch processing.
 
